@@ -1,8 +1,3 @@
-// Daniel Shiffman
-// http://youtube.com/thecodingtrain
-// http://codingtra.in
-
-// Coding Challenge #115: Snake Game Redux
 // https://youtu.be/OMoVcohRgZA
 
 let snake;
